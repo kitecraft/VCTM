@@ -1,3 +1,6 @@
 /.vs
 /__vm
 /Release
+/Firmware/VCTIM/Release
+/Firmware/VCTIM/.vs
+/Firmware/VCTIM/__vm
