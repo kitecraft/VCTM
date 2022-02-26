@@ -21,8 +21,5 @@
     <ClInclude Include="__vm\.VCTM.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Bitter_8.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
