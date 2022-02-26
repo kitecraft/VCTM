@@ -12,22 +12,22 @@
 #include <DallasTemperature.h>
 
 
-#define VOLTAGE_PIN A0
-#define MEASURED_VREF 4.94
+#define VOLTAGE_PIN A1
+#define MEASURED_VREF 4.96
 #define CALIBRATED_VOLTAGE_DIVIDER 11.115
 #define NUMBER_VOLTAGE_SAMPLES 10
 
-#define CURRENT_PIN A1
+#define CURRENT_PIN A0
 #define CURRENT_SENSE_MIDPOINT 513
 
 #define TEMPERATURE_PIN 10
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
-#define OLED_MOSI   6
-#define OLED_CLK   5
-#define OLED_DC    8
-#define OLED_CS    9
+#define OLED_MOSI   8
+#define OLED_CLK   9
+#define OLED_DC    6
+#define OLED_CS    5
 #define OLED_RESET 7
 
 #define DISPLAY_VOLTAGE_VALUE_Y_OFFSET 16
